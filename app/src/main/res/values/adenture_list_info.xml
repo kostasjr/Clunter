@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Names -->
+    <string-array name="adventure_names">
+        <item>Nuotykis 101</item>
+        <item>Kitas nuotykis</item>
+        <item>Kitas nuotykis</item>
+        <item>Kitas nuotykis</item>
+        <item>Kitas nuotykis</item>
+        <item>Kitas nuotykis</item>
+        <item>Kitas nuotykis</item>
+        <item>Kitas nuotykis</item>
+        <item>Kitas nuotykis</item>
+    </string-array>
+
+    <!-- Locations -->
+    <string-array name="adventure_locations">
+        <item>V. Kudirkos aikštė</item>
+        <item>Kita vieta</item>
+        <item>Kita vieta</item>
+        <item>Kita vieta</item>
+        <item>Kita vieta</item>
+        <item>Kita vieta</item>
+        <item>Kita vieta</item>
+        <item>Kita vieta</item>
+        <item>Kita vieta</item>
+    </string-array>
+
+    <!-- Length -->
+    <string-array name="adventure_lengths">
+        <item>~ 1h</item>
+        <item>~ ?h</item>
+        <item>~ ?h</item>
+        <item>~ ?h</item>
+        <item>~ ?h</item>
+        <item>~ ?h</item>
+        <item>~ ?h</item>
+        <item>~ ?h</item>
+        <item>~ ?h</item>
+    </string-array>
+
+    <!-- ID -->
+    <string-array name="adventure_ids">
+        <item>_001</item>
+        <item>_002</item>
+        <item>_003</item>
+        <item>_004</item>
+        <item>_005</item>
+        <item>_006</item>
+        <item>_007</item>
+        <item>_008</item>
+        <item>_009</item>
+    </string-array>
+
+    <string-array name="adventure_toughness">
+        <item>g</item>
+        <item>g</item>
+        <item>g</item>
+        <item>o</item>
+        <item>o</item>
+        <item>h</item>
+        <item>h</item>
+        <item>h</item>
+        <item>h</item>
+    </string-array>
+
+</resources>

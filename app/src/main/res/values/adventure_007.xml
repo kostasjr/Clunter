@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Name_007">Adventure 107</string>
+
+    <string-array name="Clues_007">
+        <item>Apsisuk tris kartus, nes atsakymas po kojom.</item>
+        <item>Nuo kategros iki bokšto kelias neilgas, bet prasmingas.</item>
+        <item>drawable/plytele</item>
+
+        <item>Tautiška giesmė atsakymo nepasakys, bet autorius padės, kol KITO VARDAS šalia stovės.</item>
+        <item>drawable/kudirka</item>
+        <item>Stulpai JO tau prieš akis, o "namai" liko už nugaros. </item>
+
+        <item>drawable/billy</item>
+        <item>"Can you play me a memory?"</item>
+        <item>Ne teatras, bet "muzikinis". Ne baras... Ai... Baras.</item>
+    </string-array>
+
+    <string-array name="Answers_007">
+        <item>stebuklas</item>
+        <item>gediminas</item>
+        <item>pianoman</item>
+    </string-array>
+
+</resources>

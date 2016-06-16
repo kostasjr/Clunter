@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:id="@+id/fragAd"
+    android:layout_height="match_parent"  tools:showIn="@layout/activity_adventure"
+    tools:context=".AdventureActivityFragment"
+    android:orientation="vertical"
+    android:weightSum="1">
+    android:background="#5c5c5c"
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text=" X / X"
+        android:id="@+id/part_num"
+        android:gravity="center"
+        android:color="#999999"
+        android:textSize="32dp"
+        android:textColor="#FFFFFF"
+        android:paddingTop="0dp"
+        android:paddingBottom="8dp"
+        android:background="@color/colorPrimary" />
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="458dp"
+        android:id="@+id/clue_listView" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="112dp"
+        android:text="Kita užuomina po 1 min 30 s"
+        android:id="@+id/clue_time"
+        android:textSize="16dp"
+        android:paddingTop="10dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="8dp"
+        android:paddingBottom="8dp"
+        android:background="@color/colorPrimary"
+        android:textColor="#ffffff" />
+
+
+
+
+</LinearLayout>
+
+
